@@ -16,7 +16,7 @@ main:
 
 #side-bar (projects)
 projects:
-  - title: Goverments
+  - title: Goverment
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
