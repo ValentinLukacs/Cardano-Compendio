@@ -3,8 +3,7 @@ SingularityNET is a decentralized marketplace for Artificial Intelligence (AI). 
 
 ## Collaboration
 In a recent talk between Ben Goertzel (founder of SingularityNET) and Charles Hoskinson (CEO of IOHK) a collaboration between the SingularityNET as well as the Cardano Ecosystem was stated.
-
-[![]()](https://www.youtube.com/watch?v=-vwhgtyZwz0)
+![](https://www.youtube.com/watch?v=-vwhgtyZwz0)
 
 
 Timeline
