@@ -10,6 +10,6 @@ main:
    - title: "Projects"
      url: /Projects/  
    - title: "About"
-     url: /about/
+     url: /docs/_pages/about
    - title: "Sitemap"
      url: /sitemap/
