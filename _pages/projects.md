@@ -2,6 +2,8 @@
   layout: home
   author_profile: true
   permalink: /projects/
+  sidebar:
+    nav: "docs"
 ---
 
 
