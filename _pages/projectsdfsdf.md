@@ -1,7 +1,7 @@
 ---
   layout: home
   author_profile: false
-  permalink: /projects/
+  permalink: /projectsssss/
 ---
 
 
