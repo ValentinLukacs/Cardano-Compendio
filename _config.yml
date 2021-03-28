@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Cardano Compendio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Valentin Lukacs"
+name                     : "Cardano Compendio"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Valentin Lukacs"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Switzerland"
+  email            : "valentin.lukacs@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
