@@ -7,8 +7,8 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-   - title: "Docs"
-     url: /Docs/  
+   - title: "Projects"
+     url: /projects/  
    - title: "About"
      url: /about/
    - title: "Sitemap"
