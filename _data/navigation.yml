@@ -29,16 +29,16 @@ projects:
 
   - title: Enterprise & Business
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "SingularityNET"
+        url: /projects/SingularityNET/
+      - title: "Runtime verification"
+        url: /projects/Runtime-Verification/
+      - title: "Gimbalabs"
+        url: /projects/ui-text/
+      - title: "Scan Trust"
+        url: /projects/Scan-Trust/
+      - title: "Konfidio"
+        url: /projects/Konfidio/
 
   - title: Development
     children:
