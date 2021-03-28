@@ -15,8 +15,8 @@ main:
      url: /sitemap/
 
 #side-bar (projects)
-docs:
-  - title: Getting Started
+projects:
+  - title: Goverments
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
@@ -27,7 +27,7 @@ docs:
       - title: "Upgrading"
         url: /docs/upgrading/
 
-  - title: Customization
+  - title: Enterprise & Business
     children:
       - title: "Configuration"
         url: /docs/configuration/
@@ -40,7 +40,7 @@ docs:
       - title: "Layouts"
         url: /docs/layouts/
 
-  - title: Content
+  - title: Development
     children:
       - title: "Working with Posts"
         url: /docs/posts/
@@ -52,3 +52,29 @@ docs:
         url: /docs/helpers/
       - title: "Utility Classes"
         url: /docs/utility-classes/
+        
+  - title: Wallets
+    children:
+      - title: "Daedalus wallet"
+        url: /docs/posts/
+      - title: "Trezor"
+        url: /docs/pages/
+      - title: "Ledger"
+        url: /docs/collections/
+      - title: "Yoroi"
+        url: /docs/helpers/
+      - title: "Acomic Wallet"
+        url: /docs/utility-classes/
+        
+  - title: Exchanges
+    children:
+      - title: "Coinbase"
+        url: /docs/posts/
+      - title: "Binance"
+        url: /docs/pages/
+      - title: "Kraken"
+        url: /docs/collections/
+      - title: "Huobi"
+        url: /docs/helpers/
+      - title: "Acomic Wallet"
+        url: /docs/utility-classes/          
