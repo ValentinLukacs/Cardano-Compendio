@@ -270,6 +270,7 @@ compress_html:
 defaults:
   # _pages
   - scope:
+      title: true
       path: ""
       type: pages
     values:
