@@ -3,7 +3,7 @@
   author_profile: false
   permalink: /projects/
   sidebar:
-    nav: "docs"
+    nav: "projects"
 ---
 
 
