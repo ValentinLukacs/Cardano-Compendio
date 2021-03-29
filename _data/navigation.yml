@@ -16,16 +16,6 @@ main:
 
 #side-bar (projects)
 projects:
-  - title: Goverment
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
 
   - title: Enterprise & Business
     children:
@@ -39,19 +29,27 @@ projects:
         url: /projects/business/Scan-Trust/
       - title: "Konfidio"
         url: /projects/business/Konfidio/
+        
+  - title: Goverment
+    children:
+      - title: "Ethiopia"
+        url: /projects/goverment/ethiopia/
+      - title: "Gorgia"
+        url: /projects/goverment/gorgia/
+      - title: "Mongolia"
+        url: /projects/goverment/mongolia/       
 
   - title: Development
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "Haskell"
+        url: /projects/development/Haskell/
+      - title: "Plutus"
+        url: /projects/development/Plutus/
+      - title: "Marlowe"
+        url: /projects/development/Marlowe/
+      - title: "KEVM"
+        url: /projects/development/KEVM/
+
         
   - title: Wallets
     children:
