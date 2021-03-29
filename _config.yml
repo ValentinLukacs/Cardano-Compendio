@@ -275,5 +275,6 @@ defaults:
     values:
       layout: single
       author_profile: false
+      strip_title: true
       sidebar: 
         nav: "projects"
