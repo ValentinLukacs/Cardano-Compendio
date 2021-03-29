@@ -20,15 +20,15 @@ projects:
   - title: Enterprise & Business
     children:
       - title: "SingularityNET"
-        url: /projects/business/SingularityNET/
+        url: /projects/business/singularity-net/
       - title: "Runtime verification"
-        url: /projects/business/Runtime-Verification/
+        url: /projects/business/runtime-verification/
       - title: "Gimbalabs"
-        url: /projects/business/Gimbalabs/
+        url: /projects/business/gimbalabs/
       - title: "Scan Trust"
-        url: /projects/business/Scan-Trust/
+        url: /projects/business/scan-trust/
       - title: "Konfidio"
-        url: /projects/business/Konfidio/
+        url: /projects/business/konfidio/
         
   - title: Goverment
     children:
