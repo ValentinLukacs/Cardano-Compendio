@@ -42,13 +42,13 @@ projects:
   - title: Development
     children:
       - title: "Haskell"
-        url: /projects/development/Haskell/
+        url: /projects/development/haskell/
       - title: "Plutus"
-        url: /projects/development/Plutus/
+        url: /projects/development/plutus/
       - title: "Marlowe"
-        url: /projects/development/Marlowe/
+        url: /projects/development/marlowe/
       - title: "KEVM"
-        url: /projects/development/KEVM/
+        url: /projects/development/kevm/
 
         
   - title: Wallets
