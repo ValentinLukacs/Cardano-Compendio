@@ -51,28 +51,9 @@ projects:
         url: /projects/development/kevm/
 
         
-  - title: Wallets
+  - title: Exchanges & Wallets
     children:
-      - title: "Daedalus wallet"
-        url: /docs/posts/
-      - title: "Trezor"
-        url: /docs/pages/
-      - title: "Ledger"
-        url: /docs/collections/
-      - title: "Yoroi"
-        url: /docs/helpers/
-      - title: "Acomic Wallet"
-        url: /docs/utility-classes/
-        
-  - title: Exchanges
-    children:
-      - title: "Coinbase"
-        url: /docs/posts/
-      - title: "Binance"
-        url: /docs/pages/
-      - title: "Kraken"
-        url: /docs/collections/
-      - title: "Huobi"
-        url: /docs/helpers/
-      - title: "Acomic Wallet"
-        url: /docs/utility-classes/          
+      - title: "Exchanges"
+        url: /projects/exchanges-wallets/exchanges/
+      - title: "Wallets"
+        url: /projects/exchanges-wallets/exchanges/        
