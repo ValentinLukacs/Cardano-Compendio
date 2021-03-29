@@ -275,7 +275,6 @@ defaults:
       type: pages
     values:
       layout: single
-      title: true
       author_profile: false
       sidebar: 
         nav: "projects"
