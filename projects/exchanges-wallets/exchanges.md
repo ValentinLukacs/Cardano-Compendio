@@ -2,7 +2,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
 
 | Exchange         | Info |
 | --------         | ------ |
-| ![Coinbase](/assets/images/projects/exchanges-wallets/coinbase.png)   | * US-Based </br>* <a href="https:www.coinbase.com/" target="_blank">Get your ADA on coinbase</a>|
+| ![Coinbase](/assets/images/projects/exchanges-wallets/coinbase.png)   | * US-Based * <a href="https:www.coinbase.com/" target="_blank">Get your ADA on coinbase</a>|
 | [Jane Doe](#)    | $100K  |
 | [Fred Bloggs](#) | $100M  |
 | [Jane Bloggs](#) | $100B  |                       
