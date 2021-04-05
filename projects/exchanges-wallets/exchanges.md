@@ -1,7 +1,7 @@
 The Cardano ecosystem is growing every day. To get a lot of exchanges provide the possibility to buy ADA the native currency of Cardano to get personally involved into the project. Here you find a list of all the exchanges in the Cardano universe!
 
 ### Binance / Binance US
-![Logo Binance](/projects/exchanges-wallets/Logo-Binance.jpg)
+![Logo Binance](/projects/exchanges-wallets/Logo-Binance.png)
 * Get your ADA on <a href="https://www.binance.com/" target="_blank">Binance</a> or <a href="https://www.binance.us/" target="_blank">Binance US</a>.
 * Headquarters: Malta
 * Founded: 2017
