@@ -21,7 +21,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
 * Founded: 2014
 
 ### Kraken 
-![Logo Kraken](/projects/exchanges-wallets/Logo-Kraken.jpg)
+![Logo Kraken](/projects/exchanges-wallets/Logo-Kraken.png)
 * Get your ADA on <a href="https://www.kraken.com/" target="_blank">Kraken</a>
 * Based in: USA
 * Founded: 2011
