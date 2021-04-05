@@ -1,7 +1,7 @@
 ---
 title: Scan Trust
 ---
-ScanTrust is a Lausanne-based smart packaging services company with solutions for product counterfeiting, track and trace and consumer engagement. ScanTrust works with QR-Codes to track and trace goods trough the supply-chain from production till consumtion. Working alongside companies with complex international supply chains such as Unilever, ExxonMobil and DuPont, Scantrust applies proprietary and patented tamper-resistant labels on connected products, using secured QR-codes. These QR-codes include a secure graphic in the center, that gives every QR-code anti-counterfeit features.
+ScanTrust is a Lausanne-based smart packaging services company with solutions for product counterfeiting, track and trace and consumer engagement. ScanTrust works with QR-Codes to track and trace goods trough the supply-chain from production till consumtion. Working alongside companies with complex international supply chains such as Unilever, ExxonMobil and DuPont, Scantrust applies proprietary and patented tamper-resistant labels on connected products, using secured QR-codes. These QR-codes include a secure graphic in the center, that gives every QR-code anti-counterfeit features. bla
 <img src="/projects/business/Logo-Scantrust.png" alt="ScanTrust Logo" width="240" border="10" />
 
 The major fields of activities are:
