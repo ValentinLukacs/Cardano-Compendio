@@ -1,7 +1,7 @@
 ---
 title: SingularityNET
 ---
-<img src="/projects/business/Logo-SingularityNET.png" alt="Logo SingularityNET" width="240" class="projects-logo" align="right"/>
+<img src="/projects/business/Logo-SingularityNET.png" alt="Logo SingularityNET" width="160" class="projects-logo" align="right"/>
 SingularityNET is a decentralized marketplace for Artificial Intelligence (AI). The business value of AI is becoming clearer each day; however, there’s a significant gap between the people developing AI tools (researchers and academics) and the businesses that want to use them. Most organizations need a more customized solution than what a single AI project can offer, and research projects oftentimes have trouble accessing a large enough data set to build effective machine learning. SingularityNET closes these gaps.
 
 ### Collaboration
