@@ -11,7 +11,7 @@ In a recent talk between Ben Goertzel (founder of SingularityNET) and Charles Ho
 alt="Interview" width="240" height="180" border="10" /></a>
 
 
-### References
+### References & Sources
 * <a href="https://blog.singularitynet.io/singularitynet-collaborates-with-iohk-to-explore-cardano-agi-synergies-8bd1570ffab2" target="_blank">blog.singularitynet.io</a>
 * <a href="https://iohk.io/en/blog/posts/2021/02/05/decentralizing-social-media/" target="_blank">iohk.io/en/blog</a>
 
