@@ -1,10 +1,16 @@
 ---
 title: Scan Trust
 ---
+ScanTrust is a Lausanne-based smart packaging services company with solutions for product counterfeiting, track and trace and consumer engagement. ScanTrust works with QR-Codes to track and trace goods trough the supply-chain from production till consumtion.
+
+The major fields of activities are:
+* Brand Protection - The ScanTrust technology aims to eliminate counterfeiting to protect established brands
+* Supply Chain tracking - Goods can be tracked trough the whole supply-chain on a single-good level
+* Consumer engagement - Personalized solutions to fit the needs of different audiences
 
 
 ### Collaboration
-The Cardano Foundation has exepted to implement a proof-of-concept integration implement a proof of concept integration with ScanTrust to co-develop the Cardano Connector, a blockchain-enabled product provenance and authenticity tool. ScanTrust is a Lausanne-based smart packaging services company with solutions for product counterfeiting, track and trace and consumer engagement. 
+The Cardano Foundation has exepted to implement a proof-of-concept integration with ScanTrust to co-develop the Cardano Connector, a blockchain-enabled product provenance and authenticity tool. 
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6g57R9SQPkY
@@ -12,5 +18,6 @@ The Cardano Foundation has exepted to implement a proof-of-concept integration i
 alt="Interview" width="240" height="180" border="10" /></a>
 
 
-### References
+### References & Sources
 * <a href="https://www.scantrust.com/" target="_blank">www.scantrust.com</a>
+* <a href="https://twitter.com/ScanTrust/status/1220658959888969732?s=20" target="_blank">https://twitter.com/ScanTrust/status/1220658959888969732?s=20</a>
