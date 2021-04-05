@@ -34,15 +34,15 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
 
 ### Huobi 
 ![Logo Huobi](/projects/exchanges-wallets/Logo-Huobi.png)
-* Get your ADA on <a href="https:www.coinbase.com/" target="_blank">Coinbase</a>
-* Based in: USA
-* Founded: 2012
+* Get your ADA on <a href="https://www.huobi.com/" target="_blank">Huobi</a>
+* Based in: Seychelles
+* Founded: 2013
 
 ### KuCoin 
-![Logo KuCoin](/projects/exchanges-wallets/logo-coinbase.png)
-* Get your ADA on <a href="https:www.coinbase.com/" target="_blank">Coinbase</a>
-* Based in: USA
-* Founded: 2012
+![Logo KuCoin](/projects/exchanges-wallets/Logo-KuCoin.png)
+* Get your ADA on <a href="https://www.kucoin.com/" target="_blank">KuCoin</a>
+* Based in: Honkg KOng
+* Founded: 2013
 
 
 
