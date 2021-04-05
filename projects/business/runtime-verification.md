@@ -7,7 +7,7 @@ Runtime Verification Inc. is a startup company aimed at using runtime verificati
 The IOHK research and development team worked closely with runtime verification and with several students at the University of Illinois, led by Professor Rosu, to develop IELE to the highest mathematical standards using formal methods and state-of-the-art programming language theory. IELE’s design, definition, and implementation follow a semantics-first approach to implement the verification of smart contracts.
 
 ### Collaboration
-The IELE Virtual Machine
+**The IELE Virtual Machine**
 
 Technology will execute secure smart contracts in third-generation blockchain Cardano
 
