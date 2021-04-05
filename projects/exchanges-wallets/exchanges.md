@@ -1,14 +1,14 @@
 The Cardano ecosystem is growing every day. To get a lot of exchanges provide the possibility to buy ADA the native currency of Cardano to get personally involved into the project. Here you find a list of all the exchanges in the Cardano universe!
 
 ### Binance / Binance US
-![Logo Binance](/projects/exchanges-wallets/Logo-binance.jpg)
+![Logo Binance](/projects/exchanges-wallets/Logo-Binance.jpg)
 * Get your ADA on <a href="https://www.binance.com/" target="_blank">Binance</a> or <a href="https://www.binance.us/" target="_blank">Binance US</a>.
 * Headquarters: Malta
 * Founded: 2017
 * Available: over 30 countries
 
 ### Coinbase / Coinbase Pro
-![Logo Coinbase](/projects/exchanges-wallets/Logo-coinbase.png)
+![Logo Coinbase](/projects/exchanges-wallets/Logo-Coinbase.png)
 * Get your ADA on <a href="https:www.coinbase.com/" target="_blank">Coinbase</a> or <a href="https://pro.coinbase.com/" target="_blank">Coinbase Pro</a>.
 * Based in: USA
 * Founded: 2012
@@ -21,34 +21,28 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
 * Founded: 2014
 
 ### Kraken 
-![Logo Kraken](/projects/exchanges-wallets/logo-coinbase.png)
-* Get your ADA on <a href="https:www.coinbase.com/" target="_blank">Coinbase</a>
+![Logo Kraken](/projects/exchanges-wallets/Logo-Kraken.jpg)
+* Get your ADA on <a href="https://www.kraken.com/" target="_blank">Kraken</a>
 * Based in: USA
-* Founded: 2
-* Available: over 30 countries
+* Founded: 2011
 
-
-
-### Bitrex 
-![Coinbase](/projects/exchanges-wallets/logo-coinbase.png)
-* Get your ADA on <a href="https:www.coinbase.com/" target="_blank">Coinbase</a>
+### Bittrex 
+![Logo Bittrex](/projects/exchanges-wallets/Logo-Bittrex.png)
+* Get your ADA on <a href="https://global.bittrex.com/" target="_blank">Bittrex</a>
 * Based in: USA
-* Founded: 2012
-* Available: over 30 countries
+* Founded: 2014
 
 ### Huobi 
-![Coinbase](/projects/exchanges-wallets/logo-coinbase.png)
+![Logo Huobi](/projects/exchanges-wallets/Logo-Huobi.png)
 * Get your ADA on <a href="https:www.coinbase.com/" target="_blank">Coinbase</a>
 * Based in: USA
 * Founded: 2012
-* Available: over 30 countries
 
 ### KuCoin 
-![Coinbase](/projects/exchanges-wallets/logo-coinbase.png)
+![Logo KuCoin](/projects/exchanges-wallets/logo-coinbase.png)
 * Get your ADA on <a href="https:www.coinbase.com/" target="_blank">Coinbase</a>
 * Based in: USA
 * Founded: 2012
-* Available: over 30 countries
 
 
 
