@@ -2,7 +2,7 @@
 title: Runtime Verification
 ---
 <img src="/projects/business/Logo-RuntimeVerification.png" alt="Logo Runtime Verification" width="160" class="projects-logo" align="right"/>
-Runtime Verification Inc. is a startup company aimed at using runtime verification-based techniques to perform security audits on virtual machines and smart contracts on public blockchains. It is dedicated to using its dynamic software analysis approach to improve the safety, reliability, and correctness of software systems in the blockchain field.
+Runtime Verification Inc. is a University of Illinois startup company aimed at using runtime verification-based techniques to perform security audits on virtual machines and smart contracts on public blockchains. It is dedicated to using its dynamic software analysis approach to improve the safety, reliability, and correctness of software systems in the blockchain field.
 
 ### Collaboration
 The IOHK research and development team worked closely with runtime verification and with several students at the University of Illinois, led by Professor Rosu, to develop IELE to the highest mathematical standards using formal methods and state-of-the-art programming language theory. IELE’s design, definition, and implementation follow a semantics-first approach to implement the verification of smart contracts.
