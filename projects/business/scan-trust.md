@@ -16,7 +16,7 @@ The Cardano Foundation has exepted to implement a proof-of-concept integration w
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6g57R9SQPkY
 " target="_blank"><img src="/assets/images/video-player-bar-template.jpg" 
-alt="Interview" width="240" height="180" border="10" /></a>
+alt="Interview" width="240" border="10" /></a>
 
 
 ### References & Sources
