@@ -26,26 +26,23 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
 * Based in: USA
 * Founded: 2011
 
-### Bitrex 
-![Logo Bitrex](/projects/exchanges-wallets/logo-coinbase.png)
-* Get your ADA on <a href="https:www.coinbase.com/" target="_blank">Coinbase</a>
+### Bittrex 
+![Logo Bittrex](/projects/exchanges-wallets/Logo-Bittrex.png)
+* Get your ADA on <a href="https://global.bittrex.com/" target="_blank">Bittrex</a>
 * Based in: USA
-* Founded: 2012
-* Available: over 30 countries
+* Founded: 2014
 
 ### Huobi 
 ![Logo Huobi](/projects/exchanges-wallets/Logo-Huobi.png)
 * Get your ADA on <a href="https:www.coinbase.com/" target="_blank">Coinbase</a>
 * Based in: USA
 * Founded: 2012
-* Available: over 30 countries
 
 ### KuCoin 
 ![Logo KuCoin](/projects/exchanges-wallets/logo-coinbase.png)
 * Get your ADA on <a href="https:www.coinbase.com/" target="_blank">Coinbase</a>
 * Based in: USA
 * Founded: 2012
-* Available: over 30 countries
 
 
 
