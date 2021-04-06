@@ -15,9 +15,9 @@ Technology will execute secure smart contracts in third-generation blockchain Ca
 Runtime Verification and IOHK have announced the official release of IELE, a next-generation virtual machine for the blockchain. IELE brings a high level of security and dependability to blockchain systems and reduces the risk of vulnerabilities that can lead to hacks.
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Hq-hvaD6NSA
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=F1HyohE4o3w
 " target="_blank"><img src="/assets/images/video-player-bar-template.jpg" 
-alt="K framework and Cardano" width="240" height="180" border="10" /></a>
+alt="Introducing GimbaLabs" width="240" border="10" /></a>
 
 
 ### References & Sources
