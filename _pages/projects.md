@@ -11,8 +11,8 @@ Take a look!
 <table style="width:100%">
   <tr>
     <td><a href="/projects/business/gimbalabs/"><img src="/projects/business/Logo-GimbaLabs.png" alt="Logo GimbaLabs" width="100"/></a></td>
-    <td><a href="/projects/business/gimbalabs/"><img src="/projects/business/Logo-GimbaLabs.png" alt="Logo GimbaLabs" width="100"/></a></td>
-    <td><a href="/projects/business/gimbalabs/"><img src="/projects/business/Logo-GimbaLabs.png" alt="Logo GimbaLabs" width="100"/></a></td>
+    <td><a href="/projects/business/runtime-verification/"><img src="/projects/business/Logo-RuntimeVerification.png" alt="Logo Runtime Verification" width="100"/></a></td>
+    <td><a href="/projects/business/singularity-net/"><img src="/projects/business/Logo-SingularityNET.png" alt="Logo SingularityNET" width="100"/></a></td>
   </tr>
   <tr>
     <td>Eve</td>
