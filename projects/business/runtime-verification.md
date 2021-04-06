@@ -16,7 +16,7 @@ Runtime Verification and IOHK have announced the official release of IELE, a nex
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Hq-hvaD6NSA
 " target="_blank"><img src="/assets/images/video-player-bar-template.jpg" 
-alt="K framework and Cardano" width="240" height="180" border="10" /></a>
+alt="K framework and Cardano" width="240" border="10" /></a>
 
 
 ### References & Sources
