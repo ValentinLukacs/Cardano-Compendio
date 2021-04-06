@@ -10,9 +10,9 @@ Take a look!
 
 <table style="width:100%">
   <tr>
-    <td><a href="/projects/business/gimbalabs/"><img src="/projects/business/Logo-GimbaLabs.png" alt="Logo GimbaLabs"/></a></td>
-    <td><a href="/projects/business/runtime-verification/"><img src="/projects/business/Logo-RuntimeVerification.png" alt="Logo Runtime Verification"/></a></td>
-    <td><a href="/projects/business/singularity-net/"><img src="/projects/business/Logo-SingularityNET.png" alt="Logo SingularityNET"/></a></td>
+    <td style="width:33%"><a href="/projects/business/gimbalabs/"><img src="/projects/business/Logo-GimbaLabs.png" alt="Logo GimbaLabs"/></a></td>
+    <td style="width:33%"><a href="/projects/business/runtime-verification/"><img src="/projects/business/Logo-RuntimeVerification.png" alt="Logo Runtime Verification"/></a></td>
+    <td style="width:33%"><a href="/projects/business/singularity-net/"><img src="/projects/business/Logo-SingularityNET.png" alt="Logo SingularityNET"/></a></td>
   </tr>
   <tr>
     <td><a href="/projects/business/scan-trust/"><img src="/projects/business/Logo-Scantrust.png" alt="Logo ScanTrust"/></a></td>
