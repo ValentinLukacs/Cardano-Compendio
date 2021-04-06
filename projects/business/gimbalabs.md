@@ -14,5 +14,5 @@ alt="Introducing GimbaLabs" width="240" border="10" /></a>
 
 
 ### References & Sources
-* <a href="https://gimbalabs.com/" target="_blank">gimbalabs.com/</a>
+* <a href="https://gimbalabs.com/" target="_blank">gimbalabs.com</a>
 * <a href="https://twitter.com/gimbalabs?lang=en" target="_blank">twitter.com/gimbalabs</a>
