@@ -22,4 +22,4 @@ alt="Interview" width="240" border="10" /></a>
 ### References & Sources
 * <a href="https://www.scantrust.com/" target="_blank">www.scantrust.com</a>
 * <a href="https://forum.cardano.org/t/cardano-foundation-develops-metadata-connector-for-scantrust-supply-chain-tracking" target="_blank">forum.cardano.org/t/cardano-foundation-develops-metadata-connector-for-scantrust-supply-chain-tracking</a>
-* <a href="https://twitter.com/ScanTrust/status/1220658959888969732?s=20" target="_blank">https://twitter.com/ScanTrust/status/1220658959888969732?s=20</a>
+* <a href="https://twitter.com/ScanTrust/status/1220658959888969732?s=20" target="_blank">https://twitter.com/ScanTrust/</a>
