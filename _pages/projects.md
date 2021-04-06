@@ -15,9 +15,9 @@ Take a look!
     <td style="width:33%"><a href="/projects/business/singularity-net/"><img src="/projects/business/Logo-SingularityNET.png" alt="Logo SingularityNET"/></a></td>
   </tr>
   <tr>
-    <td><a href="/projects/business/scan-trust/"><img src="/projects/business/Logo-Scantrust.png" alt="Logo ScanTrust"/></a></td>
-    <td><a href="/projects/business/konfidio/"><img src="/projects/business/Logo-Konfidio.png" alt="Logo Konfidio"/></a></td>
-    <td></td>
+    <td style="width:33%"><a href="/projects/business/scan-trust/"><img src="/projects/business/Logo-Scantrust.png" alt="Logo ScanTrust"/></a></td>
+    <td style="width:33%"><a href="/projects/business/konfidio/"><img src="/projects/business/Logo-Konfidio.png" alt="Logo Konfidio"/></a></td>
+    <td style="width:33%"></td>
   </tr>
   <tr>
     <td></td>
