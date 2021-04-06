@@ -13,6 +13,8 @@ The major fields of activities are:
 ### Collaboration
 The Cardano-Scantrust solution allows brand owners to leverage the traceability and targeted data functions of Scantrust’s physical, secured QR codes; together with the speed and low cost of the Cardano blockchain for supply chain traceability and anti-counterfeit use cases.  The live implementation of the supply chain solution, first revealed in December 2020, is complete and is already being successfully used in a proof-of-concept implementation with Georgian artisan wine producer, Baia’s Wine.
 
+The Cardano-Scantrust application will connect metadata on the Cardano blockchain to unique and traceable Scantrust QR codes on Baia’s wine bottles destined for international markets. This allows for detailed data visualization built from every touchpoint and interaction along Baia’s Wine supply chain journey.
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6g57R9SQPkY
 " target="_blank"><img src="/assets/images/video-player-bar-template.jpg" 
