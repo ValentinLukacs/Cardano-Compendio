@@ -2,26 +2,16 @@
 title: Konfidio
 ---
 <img src="/projects/business/Logo-Konfidio.png" alt="Logo Konfidio" width="160" class="projects-logo" align="right"/>
-Runtime Verification Inc. is a University of Illinois startup company aimed at using runtime verification-based techniques to perform security audits on virtual machines and smart contracts on public blockchains. It is dedicated to using its dynamic software analysis approach to improve the safety, reliability, and correctness of software systems in the blockchain field.
+Konfidio is a Blockchain Venture Studio located in Berlin accelerating the journey to a sustainable, decentralized future offering a variety of solutions.
 
 ### Collaboration
-The IOHK research and development team worked closely with runtime verification and with several students at the University of Illinois, led by Professor Rosu, to develop IELE to the highest mathematical standards using formal methods and state-of-the-art programming language theory. IELE’s design, definition, and implementation follow a semantics-first approach to implement the verification of smart contracts.
-
-**The IELE Virtual Machine**
-
-Technology will execute secure smart contracts in third-generation blockchain Cardano
-
-Runtime Verification and IOHK have announced the official release of IELE, a next-generation virtual machine for the blockchain. IELE brings a high level of security and dependability to blockchain systems and reduces the risk of vulnerabilities that can lead to hacks.
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Hq-hvaD6NSA
-" target="_blank"><img src="/assets/images/video-player-bar-template.jpg" 
-alt="K framework and Cardano" width="240" border="10" /></a>
-
+> Konfidio’s strategy is based on global decentralized platforms unlocking value across the global economy. After having researched all the Turing-complete blockchains, we believe the third generation blockchain of Cardano is best-placed to ensure the stability and business continuity of real-life business models. We are working with both global corporates and the German Mittelstand and will use Cardano’s revolutionary dual-layer architecture in developing complex Turing-complete transaction platforms. This strategic partnership will help the development of real-world Cardano-based applications. We will also be able to provide young entrepreneurs with a combination of business model expertise and state-of-the-art third generation blockchain as an option for their future startups. Our aim is to increase the understanding of the protocol in both corporate and startup environments and accelerate value-add for both Cardano, the blockchain community and our clients.
+> Dr. Mervyn G. Maistry, Founder and CEO of Konfidio
 
 ### References & Sources
 * <a href="https://konfidio.com/" target="_blank">konfidio.com</a>
 * <a href="https://konfidio.com/blockchain/news/cardano-foundation-konfidio-ventures-strategic-partnership-announcement/" target="_blank">konfidio.com/blockchain/news/cardano-foundation-konfidio-ventures-strategic-partnership-announcement</a>
+* <a href="https://forum.cardano.org/t/strategic-partnership-between-cardano-foundation-and-konfidio/25866" target="_blank">forum.cardano.org/t/strategic-partnership-between-cardano-foundation-and-konfidio/25866</a>
 
 
 
