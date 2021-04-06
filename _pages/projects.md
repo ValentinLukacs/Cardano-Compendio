@@ -5,7 +5,7 @@
 ---
 
 
-Here you see all the projects which are evolving in the Cardano ecosystem.
+Here you see all the projects which are evolving in the Cardano ecosystem. Click on the Logos to browse trough the various Projects and Partnerships.
 Take a look!
 
 <table style="width:100%">
