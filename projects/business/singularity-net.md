@@ -9,7 +9,7 @@ In a recent talk between Ben Goertzel (founder of SingularityNET) and Charles Ho
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-vwhgtyZwz0
 " target="_blank"><img src="/assets/images/video-player-bar-template.jpg" 
-alt="Interview" width="240" height="180" border="10" /></a>
+alt="Interview" width="240" border="10" /></a>
 
 
 ### References & Sources
