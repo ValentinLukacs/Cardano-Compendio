@@ -15,9 +15,9 @@ Take a look!
     <td><a href="/projects/business/singularity-net/"><img src="/projects/business/Logo-SingularityNET.png" alt="Logo SingularityNET" width="100"/></a></td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td><a href="/projects/business/scan-trust/"><img src="/projects/business/Logo-Scantrust.png" alt="Logo ScanTrust" width="100"/></a></td>
+    <td><a href="/projects/business/konfidio/"><img src="/projects/business/Logo-Konfidio.png" alt="Logo Konfidio" width="100"/></a></td>
+    <td></td>
   </tr>
   <tr>
     <td>John</td>
