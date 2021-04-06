@@ -8,7 +8,20 @@
 Here you see all the projects which are evolving in the Cardano ecosystem.
 Take a look!
 
-|test| <a href="/projects/business/gimbalabs/"><img src="/projects/business/Logo-GimbaLabs.png" alt="Logo GimbaLabs" width="100"/></a>| Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
+<table style="width:100%">
+  <tr>
+    <td><a href="/projects/business/gimbalabs/"><img src="/projects/business/Logo-GimbaLabs.png" alt="Logo GimbaLabs" width="100"/></a></td>
+    <td><a href="/projects/business/gimbalabs/"><img src="/projects/business/Logo-GimbaLabs.png" alt="Logo GimbaLabs" width="100"/></a></td>
+    <td><a href="/projects/business/gimbalabs/"><img src="/projects/business/Logo-GimbaLabs.png" alt="Logo GimbaLabs" width="100"/></a></td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
