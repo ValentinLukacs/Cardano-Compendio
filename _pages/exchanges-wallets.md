@@ -13,7 +13,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
 <table style="width:100%">
   <tr>
     <td style="width:33%">
-        ### Binance / Binance US
+      <h3>Binance / Binance US</h3>
       <img src="/_pages/assets/Logo-Binance.png" alt="Logo Binance>
       <ul>
       <li>Get your ADA on <a href="https://www.binance.com/" target="_blank">Binance</a> or <a href="https://www.binance.us/" target="_blank">Binance US</a>.
