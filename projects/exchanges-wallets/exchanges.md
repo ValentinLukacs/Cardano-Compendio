@@ -1,3 +1,6 @@
+---
+title: Exchanges that support ADA
+---
 The Cardano ecosystem is growing every day. To get a lot of exchanges provide the possibility to buy ADA the native currency of Cardano to get personally involved into the project. Here you find a list of all the exchanges in the Cardano universe!
 
 ### Binance / Binance US
