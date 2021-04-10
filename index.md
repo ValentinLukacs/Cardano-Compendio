@@ -10,4 +10,4 @@ Hi there, I am glad you found your way around. The Cardano Ecosystem is currentl
 To get a borad overview on the various projects that are emerging, the Cardano Compendio presents them in a short and cleary arranged manner. Feel free to browse trough the various projects and learn more about how these contributions will fullfill the <a href="https://cardano.org/">vision of Cardano</a> to change the world for the better.
 
 
-<div class="notice--warning"> Please note: This website is brand new and will evolve over the next weeks. </div>
+<div class="notice"> Please note: This website is brand new and will evolve over the next weeks. </div>
