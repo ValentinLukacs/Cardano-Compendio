@@ -34,7 +34,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
     </td>
     <td style="width:33%">
       <h3>Bithumb</h3>
-      ![Logo Bithumb](/_pages/assets/Logo-Bithumb.png)
+      <img src="/_pages/assets/Logo-Bithumb.png" alt="Logo Bithumb>      
       <ul>
       <li>Get your ADA on <a href="https://en.bithumb.com/" target="_blank">Bithumb</a></li>
       <li>Based in: South Korea</li>
