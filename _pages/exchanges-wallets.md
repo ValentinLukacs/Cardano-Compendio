@@ -71,7 +71,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
             <li>Founded: 2013</li>
          </ul>
       </td>
-   </tr >
+   </tr>
    <tr valign="top">
       <td>
          <h3>KuCoin</h3>
