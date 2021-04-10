@@ -1,7 +1,7 @@
 ---
 title: Ethiopia
 ---
-<img src="/projects/business/Flag-Ethiopia.png" alt="Flag Ethiopia" width="160" class="projects-logo" align="right"/>
+<img src="/projects/goverment/Flag-Ethiopia.png" alt="Flag Ethiopia" width="160" class="projects-logo" align="right"/>
 Stil in the making but very exciting. IOHK is planning to collaborate with several African States in the field of economic identity and banking the undbanked.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=CGEs99I6qV8
