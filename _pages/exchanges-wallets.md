@@ -20,7 +20,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
             <li>Available: over 30 countries</li>
          </ul>
       </td>
-      <td style="width:33%">
+     <td style="width:33%; vertical-align:top">
          <h3>Coinbase / Coinbase Pro</h3>
          <img src="/_pages/assets/Logo-Coinbase.png" alt="Logo Coinbase" height="70">          
          <ul>
@@ -30,7 +30,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
             <li>Available: over 30 countries</li>
          </ul>
       </td>
-      <td style="width:33%">
+      <td style="width:33%; vertical-align:top">
          <h3>Bithumb</h3>
          <img src="/_pages/assets/Logo-Bithumb.png" alt="Logo Bithumb" height="70">      
          <ul>
@@ -41,7 +41,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       </td>
    </tr>
    <tr valign="top">
-      <td style="width:33%">
+      <td style="width:33%; vertical-align:top">
          <h3>Kraken</h3>
          <img src="/_pages/assets/Logo-Kraken.png" alt="Logo Kraken" height="70">   
          <ul>
@@ -50,7 +50,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
             <li>Founded: 2011</li>
          </ul>
       </td>
-      <td style="width:33%">
+      <td style="width:33%; vertical-align:top">
          <h3>Bittrex</h3>
          <img src="/_pages/assets/Logo-Bittrex.png" alt="Logo Bittrex" height="70">   
          <ul>
@@ -59,7 +59,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
             <li>Founded: 2014</li>
          </ul>
       </td>
-      <td style="width:33%">
+      <td style="width:33%; vertical-align:top">
          <h3>Huobi</h3>
          <img src="/_pages/assets/Logo-Huobi.png" alt="Logo Huobi" height="70">  
          <ul>
@@ -70,7 +70,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       </td>
    </tr>
    <tr valign="top">
-      <td style="width:33%">
+      <td style="width:33%; vertical-align:top">
          <h3>KuCoin</h3>
          <img src="/_pages/assets/Logo-KuCoin.png" alt="Logo KuCoin" height="70">  
          <ul>
