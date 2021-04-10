@@ -8,8 +8,9 @@
 
 To get in the project evolved personaly, here you find a comprehensive list of all exchanges and wallets that support ADA.
 
-<h2>Exchanges</h2> 
-The Cardano ecosystem is growing every day. To get a lot of exchanges provide the possibility to buy ADA the native currency of Cardano to get personally involved into the project. Here you find a list of all the exchanges in the Cardano universe!
+<h2>Exchanges</h2>
+<span>
+The Cardano ecosystem is growing every day. To get a lot of exchanges provide the possibility to buy ADA the native currency of Cardano to get personally involved into the project. Here you find a list of all the exchanges in the Cardano universe!</span>
 
 
 <table style="width:100%">
