@@ -80,6 +80,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
          <li>Get your ADA on <a href="https://www.kucoin.com/" target="_blank">KuCoin</a></li>
          <li>Based in: Honkg KOng</li>
          <li>Founded: 2013</li>
+        </ul>  
       </td>
       <td></td>
       <td></td>
