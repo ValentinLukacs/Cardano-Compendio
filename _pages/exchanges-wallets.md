@@ -23,8 +23,8 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       </ul>
     </td>
     <td style="width:33%">
-      ### Coinbase / Coinbase Pro
-      ![Logo Coinbase](/_pages/assets/Logo-Coinbase.png)
+      <h3>Coinbase / Coinbase Pro</h3>
+      <img src="/_pages/assets/Logo-Coinbase.png" alt="Logo Coinbase>          
       <ul>
       <li>Get your ADA on <a href="https:www.coinbase.com/" target="_blank">Coinbase</a> or <a href="https://pro.coinbase.com/" target="_blank">Coinbase Pro</a>.</li>
       <li>Based in: USA</li>
@@ -33,7 +33,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       </ul>
     </td>
     <td style="width:33%">
-      ### Bithumb 
+      <h3>Bithumb</h3>
       ![Logo Bithumb](/_pages/assets/Logo-Bithumb.png)
       <ul>
       <li>Get your ADA on <a href="https://en.bithumb.com/" target="_blank">Bithumb</a></li>
@@ -44,7 +44,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
   </tr>
   <tr>
     <td style="width:33%">
-      ### Kraken 
+      <h3>Kraken</h3>
       ![Logo Kraken](/_pages/assets/Logo-Kraken.png)
       <ul>
       <li>Get your ADA on <a href="https://www.kraken.com/" target="_blank">Kraken</a></li>
@@ -53,7 +53,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       </ul>  
     </td>
     <td style="width:33%">
-      ### Bittrex 
+      <h3>Bittrex</h3>
       ![Logo Bittrex](/_pages/assets/Logo-Bittrex.png)
       <ul>
       <li>Get your ADA on <a href="https://global.bittrex.com/" target="_blank">Bittrex</a></li>
@@ -62,7 +62,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       </ul>
     </td>
     <td style="width:33%">
-      ### Huobi 
+      <h3>Huobi</h3> 
       ![Logo Huobi](/_pages/assets/Logo-Huobi.png)
       <ul>
       <li>Get your ADA on <a href="https://www.huobi.com/" target="_blank">Huobi</a></li>
@@ -73,7 +73,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
   </tr>
   <tr>
     <td>
-      ### KuCoin 
+      <h3>KuCoin</h3> 
       ![Logo KuCoin](/_pages/assets/Logo-KuCoin.png)
       <ul>
         <li>Get your ADA on <a href="https://www.kucoin.com/" target="_blank">KuCoin</a></li>
