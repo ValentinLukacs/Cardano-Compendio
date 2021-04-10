@@ -1,18 +1,16 @@
 ---
-  layout: home
-  author_profile: false
-  permalink: /exchanges-wallets/
-  sidebar: false
-  title: Exchanges & Wallets
+layout: home
+author_profile: false
+permalink: /exchanges-wallets/
+sidebar: false
+title: Exchanges & Wallets
 ---
 <span>
 To get in the project evolved personaly, here you find a comprehensive list of all exchanges and wallets that support ADA.
 </span>
-
 <h2>Exchanges</h2>
 <span>
 The Cardano ecosystem is growing every day. To get a lot of exchanges provide the possibility to buy ADA the native currency of Cardano to get personally involved into the project. Here you find a list of all the exchanges in the Cardano universe!</span>
-
 <table style="width:100%">
    <tr valign="top">
       <td style="width:33%">
@@ -73,8 +71,8 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
             <li>Founded: 2013</li>
          </ul>
       </td>
-      </tr valign="top">
-   <tr>
+   </tr >
+   <tr valign="top">
       <td>
          <h3>KuCoin</h3>
          <img src="/_pages/assets/Logo-KuCoin.png" alt="Logo KuCoin" height="70">  
@@ -87,4 +85,3 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       <td></td>
    </tr>
 </table>
-
