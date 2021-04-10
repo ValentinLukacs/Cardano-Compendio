@@ -19,10 +19,10 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
          <h3>Binance / Binance US</h3>
          <img src="/_pages/assets/Logo-Binance.png" alt="Logo Binance" height="70">
          <ul>
-            <li>Get your ADA on <a href="https://www.binance.com/" target="_blank">Binance</a> or <a href="https://www.binance.us/" target="_blank">Binance US</a>.
-            <li>Headquarters: Malta
-            <li>Founded: 2017
-            <li>Available: over 30 countries
+            <li>Get your ADA on <a href="https://www.binance.com/" target="_blank">Binance</a> or <a href="https://www.binance.us/" target="_blank">Binance US</a>.</li>
+            <li>Headquarters: Malta</li>
+            <li>Founded: 2017</li>
+            <li>Available: over 30 countries</li>
          </ul>
       </td>
       <td style="width:33%">
