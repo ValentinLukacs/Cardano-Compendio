@@ -50,12 +50,4 @@ projects:
       - title: "Marlowe"
         url: /projects/development/marlowe/
       - title: "KEVM"
-        url: /projects/development/kevm/
-
-        
-  - title: Exchanges & Wallets
-    children:
-      - title: "Exchanges"
-        url: /projects/exchanges-wallets/exchanges/
-      - title: "Wallets"
-        url: /projects/exchanges-wallets/wallets/        
+        url: /projects/development/kevm/     
