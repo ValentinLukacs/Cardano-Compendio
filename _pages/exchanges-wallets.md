@@ -10,7 +10,7 @@ To get in the project evolved personaly, here you find a comprehensive list of a
 The Cardano ecosystem is growing every day. To get a lot of exchanges provide the possibility to buy ADA the native currency of Cardano to get personally involved into the project. Here you find a list of all the exchanges in the Cardano universe!
 <table style="width:100% vertical-align:top">
    <tr valign="top">
-      <td style="width:33%">
+      <td style="width:33%; vertical-align:top">
          <h3>Binance / Binance US</h3>
          <img src="/_pages/assets/Logo-Binance.png" alt="Logo Binance" height="70">
          <ul>
