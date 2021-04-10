@@ -11,8 +11,9 @@ main:
      url: /projects/  
    - title: "About"
      url: /about/
-   - title: "Sitemap"
-     url: /sitemap/
+   - title: "Contact"
+     url: /Contact/
+
 
 #side-bar (projects)
 projects:
