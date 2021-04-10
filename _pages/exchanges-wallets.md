@@ -73,7 +73,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       </td>
    </tr>
    <tr valign="top">
-      <td>
+      <td style="width:33%">
          <h3>KuCoin</h3>
          <img src="/_pages/assets/Logo-KuCoin.png" alt="Logo KuCoin" height="70">  
          <ul>
