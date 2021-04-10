@@ -45,6 +45,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
   <tr>
     <td style="width:33%">
       <h3>Kraken</h3>
+      <img src="/_pages/assets/Logo-Kraken.png" alt="Logo Kraken>   
       ![Logo Kraken](/_pages/assets/Logo-Kraken.png)
       <ul>
       <li>Get your ADA on <a href="https://www.kraken.com/" target="_blank">Kraken</a></li>
@@ -54,7 +55,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
     </td>
     <td style="width:33%">
       <h3>Bittrex</h3>
-      ![Logo Bittrex](/_pages/assets/Logo-Bittrex.png)
+      <img src="/_pages/assets/Logo-Bittrex.png" alt="Logo Bittrex>   
       <ul>
       <li>Get your ADA on <a href="https://global.bittrex.com/" target="_blank">Bittrex</a></li>
       <li>Based in: USA</li>
@@ -63,7 +64,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
     </td>
     <td style="width:33%">
       <h3>Huobi</h3> 
-      ![Logo Huobi](/_pages/assets/Logo-Huobi.png)
+      <img src="/_pages/assets/Logo-Huobi.png" alt="Logo Huobi>  
       <ul>
       <li>Get your ADA on <a href="https://www.huobi.com/" target="_blank">Huobi</a></li>
       <li>Based in: Seychelles</li>
@@ -74,7 +75,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
   <tr>
     <td>
       <h3>KuCoin</h3> 
-      ![Logo KuCoin](/_pages/assets/Logo-KuCoin.png)
+      <img src="/_pages/assets/Logo-KuCoin.png" alt="Logo KuCoin>  
       <ul>
         <li>Get your ADA on <a href="https://www.kucoin.com/" target="_blank">KuCoin</a></li>
         <li>Based in: Honkg KOng</li>
