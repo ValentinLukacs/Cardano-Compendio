@@ -11,7 +11,7 @@ To get your ADA off an exchange and store it safely, a variety of wallets are su
 * Type: Software/Fullnode
 * Staking: Possible
 
-### Yoroi - Lightwallet
+### Yoroi - Mobile and Browser Lightwallet
 ![Logo Yoroi](/projects/exchanges-wallets/Logo-Yoroi.png)
 * Store your ADA in <a href="https://yoroi-wallet.com/" target="_blank">Yoroi Wallet</a>.
 * Publisher: <a href="https://emurgo.io//" target="_blank">Emurgo</a>
