@@ -52,7 +52,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       </td>
       <td style="width:33%; vertical-align:top">
          <h3>Bittrex</h3>
-         <img src="/_pages/assets/Logo-Bittrex.png" alt="Logo Bittrex" height="100">   
+         <img src="/_pages/assets/Logo-Bittrex.jpg" alt="Logo Bittrex" height="100">   
          <ul>
             <li>Get your ADA on <a href="https://global.bittrex.com/" target="_blank">Bittrex</a></li>
             <li>Based in: USA</li>
