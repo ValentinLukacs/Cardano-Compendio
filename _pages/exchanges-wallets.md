@@ -1,7 +1,7 @@
 ---
   layout: home
   author_profile: false
-  permalink: /Exchanges-Wallets/
+  permalink: /exchanges-wallets/
   sidebar: false
   title: Exchanges & Wallets
 ---
