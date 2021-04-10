@@ -5,8 +5,9 @@
   sidebar: false
   title: Exchanges & Wallets
 ---
-
+<span>
 To get in the project evolved personaly, here you find a comprehensive list of all exchanges and wallets that support ADA.
+</span>
 
 <h2>Exchanges</h2>
 <span>
