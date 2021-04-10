@@ -75,11 +75,19 @@ The Cardano ecosystem is growing every day. A lot of exchanges provide the possi
          <img src="/_pages/assets/Logo-KuCoin.png" alt="Logo KuCoin" height="100">  
          <ul>
          <li>Get your ADA on <a href="https://www.kucoin.com/" target="_blank">KuCoin</a></li>
-         <li>Based in: Honkg KOng</li>
+         <li>Based in: Honkg Kong</li>
          <li>Founded: 2013</li>
         </ul>  
       </td>
-      <td></td>
+      <td style="width:33%; vertical-align:top">
+         <h3>Revolut</h3>
+         <img src="/_pages/assets/Logo-Revolut.png" alt="Logo Revolut" height="100">  
+         <ul>
+         <li>Get your ADA on <a href="https://www.revolut.com/" target="_blank">Revolut</a></li>
+         <li>Based in: England</li>
+         <li>Founded: 2015</li>
+        </ul>  
+      </td>
       <td></td>
    </tr>
 </table>
