@@ -14,7 +14,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
 
 
 <table style="width:100%">
-  <tr>
+  <tr valign="top">
     <td style="width:33%">
       <h3>Binance / Binance US</h3>
       <img src="/_pages/assets/Logo-Binance.png" alt="Logo Binance" height="70">
@@ -45,7 +45,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       </ul>
     </td>
   </tr>
-  <tr>
+  <tr valign="top">
     <td style="width:33%">
       <h3>Kraken</h3>
       <img src="/_pages/assets/Logo-Kraken.png" alt="Logo Kraken" height="70">   
@@ -73,7 +73,7 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       <li>Founded: 2013</li>
       </ul>
     </td>
-  </tr>
+  </tr valign="top">
   <tr>
     <td>
       <h3>KuCoin</h3> 
