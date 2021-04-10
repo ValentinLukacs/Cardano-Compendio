@@ -8,11 +8,12 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
    - title: "Projects"
-     url: /projects/  
+     url: /projects/
+   - title: "Exchanges & Wallets"
+     url: /exchanges-wallets/     
    - title: "About"
      url: /about/
-   - title: "Contact"
-     url: /Contact/
+
 
 
 #side-bar (projects)
