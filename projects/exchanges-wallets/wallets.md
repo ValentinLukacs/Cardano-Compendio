@@ -5,7 +5,7 @@ To get your ADA off an exchange and store it safely, a variety of wallets are su
 
 ### Daedalus - Fullnode Desktop Wallet
 ![Logo Daedalus](/projects/exchanges-wallets/Logo-Daedalus.png)
-* Store your ADA in a<a href="https://yoroi-wallet.com/" target="_blank">Daedalus Wallet</a>.
+* Store your ADA in a <a href="https://yoroi-wallet.com/" target="_blank">Daedalus Wallet</a>.
 * Publisher: Open Source & <a href="https://iohk.io/" target="_blank">IOHK</a> supported
 * Platform: Desktop
 * Type: Software/Fullnode
@@ -13,19 +13,20 @@ To get your ADA off an exchange and store it safely, a variety of wallets are su
 
 ### Yoroi - Mobile and Browser Lightwallet
 ![Logo Yoroi](/projects/exchanges-wallets/Logo-Yoroi.png)
-* Store your ADA in <a href="https://yoroi-wallet.com/" target="_blank">Yoroi Wallet</a>.
+* Store your ADA in a <a href="https://yoroi-wallet.com/" target="_blank">Yoroi Wallet</a>.
 * Publisher: <a href="https://emurgo.io//" target="_blank">Emurgo</a>
-* Platform: Browser-Plugin & Mobile-Application
-* Type: Software/Lighnode
-* Staking: Possible
+* Platform: Browser-Plugin & Mobile Application
+* Type: Software/Lightnode
+* Staking: Supported
 
-### Yoroi - Mobile and Browser Lightwallet
-![Logo Yoroi](/projects/exchanges-wallets/Logo-Yoroi.png)
-* Store your ADA in <a href="https://yoroi-wallet.com/" target="_blank">Yoroi Wallet</a>.
-* Publisher: <a href="https://emurgo.io//" target="_blank">Emurgo</a>
-* Platform: Browser-Plugin & Mobile-Application
-* Type: Software/Lighnode
-* Staking: Possible
+### Ledger - Hardware Wallet
+![Logo Ledger](/projects/exchanges-wallets/Logo-Ledger.png)
+* Store your ADA on a <a href="https://yoroi-wallet.com/" target="_blank">Ledger</a> device.
+* Publisher: <a href="https://www.ledger.com/" target="_blank">Ledger</a>
+* Platform: Desktop & Mobile Application
+* Type: Hardware
+* Staking: Supported
+
 
 
 
