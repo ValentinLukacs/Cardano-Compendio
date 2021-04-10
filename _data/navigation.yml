@@ -11,8 +11,8 @@ main:
      url: /projects/  
    - title: "About"
      url: /about/
-   - title: "Contact"
-     url: /Contact/
+   - title: "Exchanges & Wallets"
+     url: /exchanges-wallets/
 
 
 #side-bar (projects)
