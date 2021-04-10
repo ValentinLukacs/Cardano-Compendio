@@ -83,3 +83,46 @@ The Cardano ecosystem is growing every day. To get a lot of exchanges provide th
       <td></td>
    </tr>
 </table>
+
+## Wallets that support ADA
+To get your ADA off an exchange and store it safely, a variety of wallets are supporting Cardano. You can choose from soft or hardwallets to desktop class fullnode and mobile lightwallets. Most of the wallets even allow staking and native token support.
+
+
+<table style="width:100%">
+   <tr>
+      <td style="width:33%; vertical-align:top">
+         <h3>Daedalus - Fullnode Desktop Wallet</h3>
+         <img src="/_pages/assets/Logo-Daedalus.png" alt="Logo Daedalus" height="100">
+         <ul>
+            <li>Store your ADA in a <a href="https://yoroi-wallet.com/" target="_blank">Daedalus Wallet</a>.</li>
+            <li>Publisher: Open Source & <a href="https://iohk.io/" target="_blank">IOHK</a> supported</li>
+            <li>Platform: Desktop</li>
+            <li>Type: Software/Fullnode wallet</li>
+            <li>Staking: Supported</li>
+         </ul>
+      </td>
+     <td style="width:33%; vertical-align:top">
+         <h3>Yoroi - Mobile and Browser Lightwallet</h3>
+         <img src="/_pages/assets/Logo-Yoroi.png" alt="Logo Yoroi" height="100">          
+         <ul>
+            <li>Store your ADA in a <a href="https://yoroi-wallet.com/" target="_blank">Yoroi Wallet</a>.</li>
+            <li>Publisher: <a href="https://emurgo.io//" target="_blank">Emurgo</a></li>
+            <li>Platform: Browser-Plugin & Mobile Application</li>
+            <li>Type: Software/Lightnode wallet</li>
+            <li>Staking: Supported</li>
+         </ul>
+      </td>
+      <td style="width:33%; vertical-align:top">
+         <h3>Ledger - Hardware Wallet</h3>
+         <img src="/_pages/assets/Logo-Ledger.png" alt="Logo Ledger" height="100">      
+         <ul>
+            <li>Store your ADA on a <a href="https://yoroi-wallet.com/" target="_blank">Ledger</a> device.</li>
+            <li>Publisher: <a href="https://www.ledger.com/" target="_blank">Ledger</a></li>
+            <li>Platform: Desktop & Mobile Application</li>
+            <li>Type: Hardware wallet</li>
+            <li>Staking: Supported</li>
+         </ul>
+      </td>
+   </tr>
+</table>
+
